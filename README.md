@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="az">
+<html lang="ru">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Rusiya Konsulluğu Növbə və Anket Xidməti | Bakı</title>
+  <title>Запись в Консульство РФ в Баку | Заполнение Анкет</title>
   <style>
     * { box-sizing: border-box; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; margin: 0; padding: 0; }
     body { background-color: #f1f5f9; color: #1e293b; display: flex; justify-content: center; padding: 15px; }
@@ -14,11 +14,9 @@
     
     .alert-box { background: #eff6ff; border: 1px solid #bfdbfe; border-radius: 8px; padding: 12px; font-size: 13px; color: #1e40af; text-align: left; margin-bottom: 20px; line-height: 1.5; }
     
-    .btn { display: flex; align-items: center; justify-content: center; gap: 10px; width: 100%; padding: 14px; margin-bottom: 12px; border-radius: 8px; font-size: 15px; font-weight: 600; text-decoration: none; transition: 0.2s; cursor: pointer; border: none; }
+    .btn { display: flex; align-items: center; justify-content: center; gap: 10px; width: 100%; padding: 16px; margin-bottom: 12px; border-radius: 8px; font-size: 16px; font-weight: 600; text-decoration: none; transition: 0.2s; cursor: pointer; border: none; }
     .btn-wa { background-color: #22c55e; color: #ffffff; }
     .btn-wa:hover { background-color: #16a34a; }
-    .btn-map { background-color: #0284c7; color: #ffffff; }
-    .btn-map:hover { background-color: #0369a1; }
     
     .services-list { text-align: left; margin-top: 20px; border-top: 1px solid #e2e8f0; padding-top: 16px; }
     .services-list h3 { font-size: 14px; color: #334155; margin-bottom: 10px; text-transform: uppercase; letter-spacing: 0.5px; }
@@ -31,38 +29,32 @@
 
 <div class="card">
   <div class="icon">🌐</div>
-  <h1>Rusiya Konsulluğu Növbə və Anket Mərkəzi</h1>
-  <p class="subtitle">Bakıda Rusiya Federasiyası Səfirliyinə elektron növbə alınması və sənədlərin hazırlanmasında operativ xidmət.</p>
+  <h1>Запись в Консульство РФ в Баку</h1>
+  <p class="subtitle">Оперативная помощь в получении электронной очереди и подготовке документов для Посольства РФ в Азербайджане.</p>
 
   <div class="alert-box">
-    <strong>⚠️ Diqqət:</strong> Növbə yerləri məhdud olduğu üçün yaranan çətinliklərlə bağlı birbaşa mərkəzimizə müraciət edə və ya ünvanımıza yaxınlaşa bilərsiniz.
+    <strong>⚠️ Внимание:</strong> Из-за высокого спроса свободные места в системеkdmid ограничены. Свяжитесь с нами напрямую для быстрого решения вашей проблемы.
   </div>
 
-  <!-- NÖMRƏNİ BURADA DƏYİŞ: 994XXXXXXXXX hissəsinə öz WhatsApp nömrəni yaz -->
-  <a href="https://wa.me/994000000000?text=Salam,%20Rusiya%20Konsulluğuna%20növbə%20götürmək%20istəyirəm." class="btn btn-wa" target="_blank">
-    💬 WhatsApp ilə Növbə Sifariş Et
-  </a>
-
-  <!-- ÜNVAN LİNKİNİ BURADA DƏYİŞ: Google Maps linkini yerləşdir -->
-  <a href="https://maps.google.com" class="btn btn-map" target="_blank">
-    📍 Mağazanın Ünvanı və Xəritə
+  <!-- WhatsApp düyməsi (055 292 42 88) -->
+  <a href="https://wa.me/994552924288?text=Здравствуйте,%20мне%20нужна%20помощь%20с%20записью%20в%20Консульство%20РФ." class="btn btn-wa" target="_blank">
+    💬 Написать в WhatsApp
   </a>
 
   <div class="services-list">
-    <h3>Göstərilən Xidmətlər:</h3>
+    <h3>Предоставляемые услуги:</h3>
     <ul>
-      <li>✅ Təcili Elektron Növbənin Tutulması (kdmid)</li>
-      <li>✅ Xarici Pasport və Viza Anketlərinin Doldurulması</li>
-      <li>✅ Notarial Sənədlərin Tərcüməsi və Hazırlanması</li>
-      <li>✅ Konsulluq Məsələləri üzrə Konsultasiya</li>
+      <li>✅ Срочная запись на прием в консульство (kdmid)</li>
+      <li>✅ Заполнение анкет на загранпаспорт и визу</li>
+      <li>✅ Перевод и подготовка нотариальных документов</li>
+      <li>✅ Консультации по консульским вопросам</li>
     </ul>
   </div>
 
   <div class="footer">
-    Mərkəzimiz konsulluq xidmətləri üçün texniki və konsultativ dəstək göstərən müstəqil xidmət məntəqəsidir.
+    Независимый центр оказания технической и консультационной помощи по консульским вопросам.
   </div>
 </div>
 
 </body>
 </html>
-# russia-consulate-appointment-
